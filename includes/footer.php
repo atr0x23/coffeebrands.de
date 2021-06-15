@@ -21,7 +21,7 @@
     </p>
     <form class="newslet-footer" action="" method="post" style="margin:auto;max-width:300px">
         <span class="w3-large">
-          <label><h5>Εγγραφή στο Newsletter</h5></label>
+          <label><h5>Subscribe to our Newsletter</h5></label>
           <input class="w3-input w3-border" type="email" id="email" placeholder="Email" required name="email">
            <button type="submit"><i class="fa fa-paper-plane"></i></button>
         </span>
@@ -29,10 +29,10 @@
   </div>
   
   <div class="w3-third w3-section w3-padding-32 w3-hide-small">
-      <p class="w3-xlarge w3-letter-spacing">ΚΑΤΑΣΤΗΜΑΤΑ</p>
+      <p class="w3-xlarge w3-letter-spacing">STORES</p>
 <!--          <p style="display: inline-block;">95 καταστήματα σε όλον το κόσμο!</p>-->
-          <p style="padding: 0px 64px 0px 64px; color:white;">95 καταστήματα σε όλον το κόσμο!<br>Ελλάδα-Καναδάς-Γερμανία-Σερβία-Κύπρος-Σαουδική Αραβία-Ην.Αραβικά Εμιράτα</p>
-          <p class="w3-small w3-margin-top" style="display: inline-block; font-family: coffeebrandsFont3;"><a class="w3-text-cbcyan2" href="#_"> ΟΡΟΙ ΧΡΗΣΗΣ </a>|<a class="w3-text-cbcyan2" href="#_"> ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ</a></p>
+          <p style="padding: 0px 64px 0px 64px; color:white;">95 stores worldwide! <br> Greece - Canada - Saudi Arabia - Germany - Serbia - Cyprus </p>
+          <p class="w3-small w3-margin-top" style="display: inline-block; font-family: coffeebrandsFont3;"><a class="w3-text-cbcyan2" href="#_"> TERMS OF USE </a>|<a class="w3-text-cbcyan2" href="#_"> PRIVACY POLICY</a></p>
   </div>
 </div>
 <div class="w3-padding">

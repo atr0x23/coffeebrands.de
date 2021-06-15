@@ -12,7 +12,7 @@
     <img src="img/cb-logo.png"><br><br><br>
     <!-- <img src="/img/cb-logo.png"> -->
     <!-- <p class="w3-center"><a href="#demo" class="btn btn-outline-secondary btn-lg">Παράγγειλε Τώρα</a></p> -->
-    <p class="w3-center"><a href="#demo" class="cbbutton2 w3-round"><i class="fa fa-coffee"></i> Παράγγειλε Τώρα</a></p>
+    <p class="w3-center"><a href="#demo" class="cbbutton2 w3-round"><i class="fa fa-coffee"></i> Order Now</a></p>
   </div>
 </div>
 
@@ -21,9 +21,8 @@
   <div class="w3-content w3-container w3-padding-64" id="about">
 <!--    <h1 class="w3-center">About us</h1><br>-->
     <h1 class="w3-center"><img src="img/about.png"></h1><br>
-    <p class="w3-center"><em>Η Φιλοσοφία μας...</em></p>
-    <p class="w3-justify" style="font-size: 18px;">Η Coffeebrands συνέβη επειδή μοιραζόμαστε το ίδιο πάθος για μία μοναδική εμπειρία καφέ!
-      Με αγάπη για τον ποιοτικό καφέ, το 2009, άνοιξε το πρώτο κατάστημα Coffeebrands. Μακριά από το εμπορικό κέντρο, σε μία εναλλακτική περιοχή της πόλης της Πάτρας, δημιουργήθηκε ο πρώτος χώρος συνάντησης των φανατικών του καφέ. Διάσημα brands καφέ, ημιεπαγγελματικός εξοπλισμός για παραγωγή καφέ στο σπίτι και το γραφείο, αλλά και η δυνατότητα να απολαύσουν premium καφέ και φρέσκα σνακ ενόσω έκαναν τις αγορές τους, εξέλιξαν το Coffeebrands σε πολλά περισσότερα από μία boutique καφέ. 
+    <p class="w3-center"><em>Our Philosophy...</em></p>
+    <p class="w3-justify" style="font-size: 18px;">With a love for quality coffee, in 2009, he opened the first Coffeebrands store. Far from the shopping center, in an alternative area of ​​the city of Patras, the first meeting place for coffee fans was created. Famous coffee brands, semi-professional equipment for coffee production at home and in the office, but also the opportunity to enjoy premium coffee and fresh snacks while shopping, have developed Coffeebrands into much more than a coffee boutique. 
       </p>
     <div class="w3-row">
       <div class="w3-col m6 w3-center w3-padding-large">
@@ -33,8 +32,8 @@
 
       <!-- Hide this text on small devices -->
       <div class="w3-col m6 w3-hide-small w3-padding-large w3-justify">
-        <p style="font-size: 18px;">Λίγοι μόνο μήνες λειτουργίας του πρώτου καταστήματος αρκούσαν ώστε οι λάτρεις του καφέ να αναδείξουν το Coffeebrands σε αγαπημένο προορισμό για καφέ, σνακ κι όχι μόνο! Οι coffee-lovers επισκέπτονται το δικό τους Coffeebrands για να απολαύσουν μία εμπειρία, που τους ταξιδεύει, σε ένα χώρο που νιώθουν σαν το σπίτι τους. Πριν ακόμα γίνει ενός έτους το πρώτο κατάστημα Coffeebrands, είχε δημιουργηθεί και δεύτερο, το οποίο έγινε δεκτό με επίσης μεγάλο ενθουσιασμό.
-          Σήμερα με καταστήματα σε Ελλάδα, Κύπρο, Γερμανία, Σερβία, Dubai, Σαουδική Αραβία και με μία δυναμική εξέλιξης που υποστηρίζουν οι Coffeebrandisti σε κάθε γειτονιά του κόσμου, προσφέρουμε πολλά περισσότερα από ένα καφέ.</p>
+        <p style="font-size: 18px;">Just a few months of operation of the first store were enough for coffee lovers to make Coffeebrands a favorite destination for coffee, snacks and more! Coffee-lovers visit their own Coffeebrands to enjoy an experience that takes them to a place that feels like home. A year before the first Coffeebrands store was opened, a second one was created, which was also received with great enthusiasm.
+          Today with stores in Greece, Cyprus, Germany, Serbia, Dubai, Saudi Arabia and with a development dynamic supported by Coffeebrandisti in every neighborhood of the world, we offer much more than a coffee.</p>
       </div>
     </div>
   </div>
@@ -59,7 +58,7 @@
               <div class="cardContainer w3-center">
                 <p id="thanoSmall">Megisto</p>
                 <p class="w3-large w3-text-white">Espresso</p>
-                <p><a href="#_" class="cbbutton2">Περισσότερα</a></p>
+                <p><a href="#_" class="cbbutton2">More</a></p>
               </div>
           </div>
         </div>
@@ -69,7 +68,7 @@
               <div class="cardContainer w3-center">
                 <p id="thanoSmall">Signature</p>
                 <p class="w3-large w3-text-white">Drinks</p>
-                <p><a href="#_" class="cbbutton2">Περισσότερα</a></p>
+                <p><a href="#_" class="cbbutton2">More</a></p>
               </div>
           </div>
         </div>
@@ -79,7 +78,7 @@
               <div class="cardContainer w3-center">
                 <p class="w3-large w3-text-white">Coffeebrands</p>
                 <p id="thanoSmall">@Home</p>
-                <p><a href="#_" class="cbbutton2">Περισσότερα</a></p>
+                <p><a href="#_" class="cbbutton2">More</a></p>
               </div>
           </div>
         </div>
@@ -92,7 +91,7 @@
               <div class="cardContainer w3-center w3-padding-top-24">
 <!--                <p class="w3-large w3-text-white">Coffeebrands</p>-->
                 <p id="thanoSmall">Slim</p>
-                <p><a href="#_" class="cbbutton2">Περισσότερα</a></p>
+                <p><a href="#_" class="cbbutton2">More</a></p>
               </div>
           </div>
         </div>
@@ -102,7 +101,7 @@
               <div class="cardContainer w3-center w3-padding-top-24">
 <!--                <p class="w3-large w3-text-white">Coffeebrands</p>-->
                 <p id="thanoSmall">Snacks</p>
-                <p><a href="#_" class="cbbutton2">Περισσότερα</a></p>
+                <p><a href="#_" class="cbbutton2">More</a></p>
               </div>
           </div>
         </div>
@@ -112,7 +111,7 @@
               <div class="cardContainer w3-center w3-padding-top-24">
 <!--                <p class="w3-large w3-text-white">Coffeebrands</p>-->
                 <p id="thanoSmall">Tea</p>
-                <p><a href="#_" class="cbbutton2">Περισσότερα</a></p>
+                <p><a href="#_" class="cbbutton2">More</a></p>
               </div>
           </div>
         </div>
@@ -125,7 +124,7 @@
               <div class="cardContainer w3-center w3-padding-top-24">
 <!--                <p class="w3-large w3-text-white">Coffeebrands</p>-->
                 <p id="thanoSmall">Morning Heroes</p>
-                <p><a href="#_" class="cbbutton2">Περισσότερα</a></p>
+                <p><a href="#_" class="cbbutton2">More</a></p>
               </div>
           </div>
         </div>
@@ -135,7 +134,7 @@
               <div class="cardContainer w3-center w3-padding-top-24">
 <!--                <p class="w3-large w3-text-white">Coffeebrands</p>-->
                 <p id="thanoSmall">Chillcup</p>
-                <p><a href="#_" class="cbbutton2">Περισσότερα</a></p>
+                <p><a href="#_" class="cbbutton2">More</a></p>
               </div>
           </div>
         </div>
@@ -145,7 +144,7 @@
               <div class="cardContainer w3-center w3-padding-top-24">
 <!--                <p class="w3-large w3-text-white">Coffeebrands</p>-->
                 <p id="thanoSmall">Juice Spot</p>
-                <p><a href="#_" class="cbbutton2">Περισσότερα</a></p>
+                <p><a href="#_" class="cbbutton2">More</a></p>
               </div>
           </div>
         </div>
@@ -170,7 +169,7 @@
             <div class="cardContainer w3-center">
               <p id="thanoSmaller">Megisto</p>
               <!-- <span class="w3-large w3-text-white">Espresso</span> -->
-              <a href="#_" class="cbbutton2small">Περισσότερα</a>
+              <a href="#_" class="cbbutton2small">More</a>
             </div>
           </div>  
         </div>
@@ -180,7 +179,7 @@
             <div class="cardContainer w3-center">
               <p id="thanoSmaller">Signature</p>
               <!-- <p class="w3-large w3-text-white">Drinks</p> -->
-              <a href="#_" class="cbbutton2small">Περισσότερα</a>
+              <a href="#_" class="cbbutton2small">More</a>
             </div>
           </div>
         </div>
@@ -190,7 +189,7 @@
             <div class="cardContainer w3-center">
               <p id="thanoSmaller">@Home</p>
               <!-- <p class="w3-large w3-text-white">Drinks</p> -->
-              <a href="#_" class="cbbutton2small">Περισσότερα</a>
+              <a href="#_" class="cbbutton2small">More</a>
             </div>
           </div>
         </div>
@@ -200,7 +199,7 @@
             <div class="cardContainer w3-center">
               <p id="thanoSmaller">Slim</p>
               <!-- <p class="w3-large w3-text-white">Drinks</p> -->
-              <a href="#_" class="cbbutton2small">Περισσότερα</a>
+              <a href="#_" class="cbbutton2small">More</a>
             </div>
           </div>
         </div>
@@ -210,7 +209,7 @@
             <div class="cardContainer w3-center">
               <p id="thanoSmaller">Snacks</p>
               <!-- <p class="w3-large w3-text-white">Drinks</p> -->
-              <a href="#_" class="cbbutton2small">Περισσότερα</a>
+              <a href="#_" class="cbbutton2small">More</a>
             </div>
           </div>
         </div>
@@ -220,7 +219,7 @@
             <div class="cardContainer w3-center">
               <p id="thanoSmaller">Tea</p>
               <!-- <p class="w3-large w3-text-white">Drinks</p> -->
-              <a href="#_" class="cbbutton2small">Περισσότερα</a>
+              <a href="#_" class="cbbutton2small">More</a>
             </div>
           </div>
         </div>
@@ -230,7 +229,7 @@
             <div class="cardContainer w3-center">
               <p id="thanoSmaller">Juice Spot</p>
               <!-- <p class="w3-large w3-text-white">Drinks</p> -->
-              <a href="#_" class="cbbutton2small">Περισσότερα</a>
+              <a href="#_" class="cbbutton2small">More</a>
             </div>
           </div>
         </div>
@@ -240,7 +239,7 @@
             <div class="cardContainer w3-center">
               <p id="thanoSmaller">Mornig Heroes</p>
               <!-- <p class="w3-large w3-text-white">Drinks</p> -->
-              <a href="#_" class="cbbutton2small">Περισσότερα</a>
+              <a href="#_" class="cbbutton2small">More</a>
             </div>
           </div>
         </div>
@@ -250,7 +249,7 @@
             <div class="cardContainer w3-center">
               <p id="thanoSmaller">Chillcup</p>
               <!-- <p class="w3-large w3-text-white">Drinks</p> -->
-              <a href="#_" class="cbbutton2small">Περισσότερα</a>
+              <a href="#_" class="cbbutton2small">More</a>
             </div>
           </div>
         </div>
@@ -272,15 +271,15 @@
 </div>
 
 <!-- enjoy coffeebrands drink -->
-<div class="w3-xxxlarge w3-text-cbcyan w3-center w3-margin-bottom">Μπορείτε να απολαύσετε ένα ρόφημα Coffeebrands​</div>
+<div class="w3-xxxlarge w3-text-cbcyan w3-center w3-margin-bottom">Enjoy Coffeebrands​ your way​</div>
 <div class="w3-row w3-center w3-cbbg-white w3-padding-16">
   <div class="w3-third w3-section">
     <img src="img/stoKatastima.png"><br>
-    <span class="w3-xlarge w3-text-cbblue">Στο Κατάστημα</span>
+    <span class="w3-xlarge w3-text-cbblue">At Strore</span>
   </div>
   <div class="w3-third w3-section">
     <img src="img/delivery.png"><br>
-    <span class="w3-xlarge w3-text-cbblue">Στο Χώρο Σας</span>
+    <span class="w3-xlarge w3-text-cbblue">At Home</span>
   </div>
   <div class="w3-third w3-section">
     <img src="img/takeAway.png"><br>
@@ -298,13 +297,11 @@
 
     <div class="w3-col m6 w3-padding-large w3-justify">
       <p style="font-size: 18px; padding-top: 130px; color: white;">
-        Ο Megisto, το signature blend των Coffeebrands, είναι αποτέλεσμα χρόνων αναζήτησης και διατίθεται αποκλειστικά στα καταστήματά μας.
-        Διαφορετικής προέλευσης και επεξεργασίας καρποί από όλα τα πλάτη του Ισημερινού συνδυάζονται ιδανικά ώστε να δημιουργήσουν το χαρμάνι Megisto
-        που έχει πλούσιο σώμα, πλήρη, έντονη γεύση, αρώματα καρυδιού και εσπεριδοειδών και χαμηλή οξύτητα. Διατίθεται σε espresso, φίλτρου, ελληνικό, στιγμιαίο και cold brew
+        Megisto, espresso is the result of a long search and is exclusively available at Coffeebrands coffee shops. Select beans of different origin and processing, from different latitudes of the equator, are combined to create the Megisto blend. We have selected varieties that create a full bodied, intense in flavor, with hints of nut and citrus fruits and low acidity blend. Megisto is also available in filter, greek, instant and cold brew.
       </p>
       <p style="font-size: 20px; padding-top: 30px; letter-spacing: 3px;">
         <a href="https://coffeebrandsdelivery.com" title="Coffeebrands Online" target="_blank" class="w3-text-cbcyan2">
-          ΔΟΚΙΜΑΣΕ ΤΩΡΑ
+          TRY IT NOW !
         </a>
       </p>
     </div>
@@ -361,20 +358,27 @@
 </div>  
 <!-- end of event section -->
 
+
 <!-- shops section start -->
+<!--
 <div class="w3-bg-grammes-l w3-hide-small">
-  <div class="w3-xxxlarge w3-text-cbcyan w3-center w3-margin-bottom w3-padding-64" id="shops">Τα Καταστήματά μας​</div>
+  <div class="w3-xxxlarge w3-text-cbcyan w3-center w3-margin-bottom w3-padding-64" id="shops">Stores​</div>
     <div class="w3-auto w3-center w3-margin-big-bottom">
       <iframe src="https://www.google.gr/maps/d/u/1/embed?mid=1PspkCY8MGRXcbBLilGhJMpBavu0D0oWm" width="1240" height="560"></iframe>
     </div>
 </div>
+-->
+
 <!-- shops section mobile -->
+
+<!--
 <div class="w3-bg-grammes-l w3-hide-large w3-hide-medium">
-  <div class="w3-xxxlarge w3-text-cbcyan w3-center w3-margin-bottom w3-padding-64" id="shopsMobile">Τα Καταστήματά μας​</div>
+  <div class="w3-xxxlarge w3-text-cbcyan w3-center w3-margin-bottom w3-padding-64" id="shopsMobile">Stores​</div>
     <div class="w3-content w3-center w3-margin-big-bottom">
       <iframe src="https://www.google.gr/maps/d/u/1/embed?mid=1PspkCY8MGRXcbBLilGhJMpBavu0D0oWm" width="400" height="500"></iframe>
     </div>
 </div>
+-->
 <!-- shops section ends-->
 
 <!-- Contact Parallax Image with Portfolio Text -->
@@ -398,10 +402,10 @@
     // send email
     $resault = mail($to,$name,$body,$header);
         if(!$resault){
-           echo "<script> alert('ουπς..., κάτι πήγε στραβά') </script>";
+           echo "<script> alert('oops..., something went wrong') </script>";
         }else
         
-        echo "<script> alert('Ευχαριστούμε, το μήνυμά σας έχει σταλεί!') </script>";
+        echo "<script> alert('Thank you, your message has been sent!') </script>";
         
 
 //    $message_sent = "<div class='alert alert-success' role='alert'> Ευχαριστούμε, το μήνυμά σας έχει σταλεί! <mark>:)</mark> </div>";
@@ -411,7 +415,7 @@
 
 <div class="w3-bg-grammes-r">
   <div class="w3-content w3-container w3-padding-64">
-    <h3 class="w3-center w3-text-blue">Στείλε μας το μήνυμά σου...</h3>
+    <h3 class="w3-center w3-text-blue">Send us your message...</h3>
     <!-- <p class="w3-center"><em></em></p> -->
     <div class="w3-row w3-padding-32 w3-section">
       <div class="w3-col m4 w3-container">
@@ -419,8 +423,8 @@
       </div>
       <div class="w3-col m8 w3-panel w3-text-blue">
         <div class="w3-large w3-margin-bottom">
-          <i class="fa fa-map-marker fa-fw w3-hover-text-cbcyan w3-xlarge w3-margin-right"></i> Πάτρα, GR<br>
-          <i class="fa fa-phone fa-fw w3-hover-text-cbcyan w3-xlarge w3-margin-right"></i> Τηλ: +30 1515151515<br>
+          <i class="fa fa-map-marker fa-fw w3-hover-text-cbcyan w3-xlarge w3-margin-right"></i> Patras, GR<br>
+          <i class="fa fa-phone fa-fw w3-hover-text-cbcyan w3-xlarge w3-margin-right"></i> Tel: +30 1515151515<br>
           <i class="fa fa-envelope fa-fw w3-hover-text-cbcyan w3-xlarge w3-margin-right"></i> Email: info@coffeebrands.gr<br>
         </div>
         
@@ -435,9 +439,9 @@
           </div>
 <!--          <input class="w3-input w3-border" type="text" placeholder="Message" required name="message">-->
              <textarea class="w3-input w3-border" placeholder="Γράψτε το μήνυμά σας..." id="message" name="message" rows="4" cols="50"></textarea>
-            <div class="w3-half">Θέλω να λαμβάνω ενημερώσεις<input class="w3-border" type="checkbox" id="newsletter" name="newsletter"></div>             
+            <div class="w3-half">I would like to receive updates <input class="w3-border" type="checkbox" id="newsletter" name="newsletter"></div>             
           <button class="w3-button w3-white w3-right w3-section" type="submit" name="send_message">
-            <i class="fa fa-paper-plane"></i> Αποστολή
+            <i class="fa fa-paper-plane"></i> Send
           </button>
         </form>
       </div>

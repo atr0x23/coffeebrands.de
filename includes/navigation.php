@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Coffeebrands.gr</title>
+<title>Coffeebrands.de</title>
 <meta charset="UTF-8">
-<link rel="shortcut icon" type="image/png" href="../../coffeebrands/img/fav-icon.png"/>
+<link rel="shortcut icon" type="image/png" href="../../de/img/fav-icon.png"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/w3.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -188,8 +188,8 @@ h1, #thanos {font-family: "coffeebrandsFont";
     <a class="w3-bar-item w3-button w3-hover-white w3-hide-medium w3-hide-large w3-left" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
       <i class="fa fa-bars"> Menu</i>
     </a>
-    <a href="../../coffeebrands/index.php#home" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-home"></i> ΑΡΧΙΚΗ</a>
-    <a href="../../coffeebrands/index.php#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> Η ΕΤΑΙΡΙΑ</a>
+    <a href="../../de/index.php#home" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-home"></i> HOME</a>
+    <a href="../../de/index.php#about" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-user"></i> ABOUT US</a>
 <!--
     <div class="dropdown w3-bar-item w3-button w3-hide-small">
     <a href="#_" class="dropbtn"><i class="fa fa-th"></i> ΠΡΟΙΟΝΤΑ <i class="fa fa-caret-down"></i></a>
@@ -200,30 +200,30 @@ h1, #thanos {font-family: "coffeebrandsFont";
         </div>
     </div> 
 -->
-    <a href="../../coffeebrands/index.php#ourProducts" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> ΠΡΟΙΟΝΤΑ</a>
-    <a href="../../coffeebrands/index.php#ourProducts" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> MORNING HEROES</a>
-    <a href="../../coffeebrands/index.php#ourProducts" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> CHILLCUP</a>
-    <a href="../../coffeebrands/index.php#ourProducts" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-map-marker"></i> JUICE SPOT</a>
+    <a href="../../de/index.php#ourProducts" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> PRODUCTS</a>
+    <a href="../../de/index.php#ourProducts" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> MORNING HEROES</a>
+    <a href="../../de/index.php#ourProducts" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-th"></i> CHILLCUP</a>
+    <a href="../../de/index.php#ourProducts" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-map-marker"></i> JUICE SPOT</a>
     <a href="franchise.php" target="_blank" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-link"></i> FRANCHISE</a>
-    <a href="../../coffeebrands/index.php#shops" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-map-marker"></i> ΚΑΤΑΣΤΗΜΑΤΑ</a>
-    <a href="../../coffeebrands/index.php#shops" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-shopping-bag"></i> E-SHOP</a>
-    <a href="../../coffeebrands/index.php#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> ΕΠΙΚΟΙΝΩΝΙΑ</a>
+<!--    <a href="../../de/index.php#shops" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-map-marker"></i> STORES</a>-->
+    <a href="../../de/index.php#shops" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-shopping-bag"></i> E-SHOP</a>
+    <a href="../../de/index.php#contact" class="w3-bar-item w3-button w3-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
     <!-- <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red"><i class="fa fa-search"></i></a> -->
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right"><img src="../../coffeebrands/img/greece.png" style="max-width: 18px;"></a>
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right"><img src="../../coffeebrands/img/english.png" style="max-width:18px;"></a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right"><img src="../../de/img/flags-orthogon-en.png" style="max-width: 25px;"></a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right"><img src="../../de/img/flags-orthogon-de.png" style="max-width:25px;"></a>
     
   </div>
 
   <!-- Navbar on small screens -->
   <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
-    <a href="../../coffeebrands/index.php#about" class="w3-bar-item w3-button" onclick="toggleFunction()">Η Εταιρεία</a>
-    <a href="../../coffeebrands/index.php#portfolio" class="w3-bar-item w3-button" onclick="toggleFunction()">Προϊόντα</a>
+    <a href="../../de/index.php#about" class="w3-bar-item w3-button" onclick="toggleFunction()">About us</a>
+    <a href="../../de/index.php#portfolio" class="w3-bar-item w3-button" onclick="toggleFunction()">Products</a>
     <a href="franchise.php" class="w3-bar-item w3-button" target="_blank" onclick="toggleFunction()">Franchise</a>
-    <a href="../../coffeebrands/index.php#shopsMobile" class="w3-bar-item w3-button" onclick="toggleFunction()">Καταστήματα</a>
-    <a href="../../coffeebrands/index.php#e-shopMobile" class="w3-bar-item w3-button" onclick="toggleFunction()">E-shop</a>
-    <a href="../../coffeebrands/index.php#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">Επικοινωνία</a>
+<!--    <a href="../../de/index.php#shopsMobile" class="w3-bar-item w3-button" onclick="toggleFunction()">Stores</a>-->
+    <a href="../../de/index.php#e-shopMobile" class="w3-bar-item w3-button" onclick="toggleFunction()">E-shop</a>
+    <a href="../../de/index.php#contact" class="w3-bar-item w3-button" onclick="toggleFunction()">Contact</a>
     <!-- <a href="#" class="w3-bar-item w3-button">SEARCH</a> -->
-    <a href="#" class="w3-bar-item w3-button"><img src="../../coffeebrands/img/greece.png" style="max-width: 18px;"></a>
-    <a href="#" class="w3-bar-item w3-button"><img src="../../coffeebrands/img/english.png" style="max-width:18px;"></a>
+    <a href="#" class="w3-bar-item w3-button"><img src="../../de/img/flags-orthogon-en.png" style="max-width: 25px;"></a>
+    <a href="#" class="w3-bar-item w3-button"><img src="../../de/img/flags-orthogon-de.png" style="max-width:25px;"></a>
   </div>
 </div>
