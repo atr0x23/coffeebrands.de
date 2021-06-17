@@ -209,9 +209,9 @@ margin: 4px 2px;letter-spacing: 2px;transition-duration: 0.6s;cursor: pointer;}
 .w3-teal,.w3-hover-teal:hover{color:#fff!important;background-color:#009688!important}
 .w3-yellow,.w3-hover-yellow:hover{color:#000!important;background-color:#ffeb3b!important}
 .w3-white,.w3-hover-white:hover{color:#73A6E4!important;background-color:#212949 !important} /*thanos*/
-.w3-black,.w3-hover-black:hover{background-image: url('../../coffeebrands/img/newFooter.jpg');background-repeat: no-repeat;box-shadow: 1px 8px 8px 8px black;} /* thanos */
-.w3-bg-grammes-r{background-image: url('../../coffeebrands/img/grammes-dexi-3.png');background-repeat: no-repeat;} /* grammes-dexi-2.jpg | thanos background-grammesR.jpg | grammes-deksi.png */
-.w3-bg-grammes-l{background-image: url('../../coffeebrandsimg/grames-aristero-3.png');background-repeat: no-repeat;} /* grammes-aristero-2.jpg | thanos background-grammesL.jpg | grammes-aristero.png */
+.w3-black,.w3-hover-black:hover{background-image: url('../../de/img/newFooter2.jpg');background-repeat: no-repeat;box-shadow: 1px 8px 8px 8px black;} /* thanos */
+.w3-bg-grammes-r{background-image: url('../../de/img/grammes-dexi-3.png');background-repeat: no-repeat;background-attachment: fixed; background-size: cover;} /* grammes-dexi-2.jpg | thanos background-grammesR.jpg | grammes-deksi.png */
+.w3-bg-grammes-l{background-image: url('../../de/img/grames-aristero-3.png');background-repeat: no-repeat;background-attachment: fixed; background-size: cover;} /* grammes-aristero-2.jpg | thanos background-grammesL.jpg | grammes-aristero.png */
 @media screen and (max-width: 600px){.w3-bg-grammes-l{background-image: none;}} /* hide left bg on small dev */
 .w3-bg-signature-blend{background-color: #212949 !important} /* thanos */
 .w3-grey,.w3-hover-grey:hover,.w3-gray,.w3-hover-gray:hover{color:#000!important;background-color:#9e9e9e!important}
